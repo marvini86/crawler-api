@@ -11,3 +11,8 @@ Can be run from command-line:
 ```shell script
 docker-compose up
 ```
+## Swagger documentation
+
+Please refer the following: http://localhost:8080/swagger-ui/index.html
+
+
