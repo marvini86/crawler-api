@@ -1,0 +1,9 @@
+spring:
+  profiles:
+    active: '@spring.profiles.active@'
+
+validation:
+  keyword:
+    size:
+      too-short: 'Size of keyword is too short'
+      too-long: 'Size of keyword is too long'
